@@ -16,7 +16,7 @@ def showFeedback(fbtext, xstart=5, ystart=100):
 
 
 def instructions(insfile):
-	insttext = ['show instructions here']
+	insttext = ['show instructions here!']
 	showFeedback(insttext)
 
 
