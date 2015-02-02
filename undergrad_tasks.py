@@ -1,3 +1,8 @@
+
+import pygame
+from pygame.locals import *
+import sys
+
 ## TO DO
 def loadConfig():
     confData={'test1': 'blank', 'test2': '42'}
